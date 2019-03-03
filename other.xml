@@ -1,0 +1,28 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="10.4.1" last-modified="1529221820701" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="78-255-60-255" />
+    <property name="FileTemplates.CurrentTab" value="Includes" />
+    <property name="FileTemplates.SelectedTemplate" value="Drupal Hook Implementation Doc Comment" />
+    <property name="INSPECTION_FILTER_HISTORY" value="spell&#10;typo" />
+    <property name="KEYMAP" value="Folding&#10;Change S&#10;Rena&#10;bool&#10;Inline" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="SettingsSearchHistory" value="PHP&#10;save&#10;tabs&#10;safe&#10;editor ta" />
+    <property name="TrendingPluginsSearchHistory" value="keyma&#10;toolb&#10;sortBy:updated&#10;tw&#10;insp" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="evlsprt3.183" value="13" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Desktop&#10;C:/xampp/htdocs/daeneris" />
+    <property name="file.gist.reindex.count" value="2111" />
+    <property name="lastTip" value="6" />
+    <property name="param.hints.settings.last.edited.language" value="PHP" />
+    <property name="selected.color.option.type" value="BREADCRUMBS_CURRENT" />
+    <property name="settings.code.style.selected.tab.PHP" value="Tabs and Indents" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>

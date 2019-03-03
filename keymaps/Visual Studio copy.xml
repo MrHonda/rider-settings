@@ -1,0 +1,17 @@
+<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="Console.TableResult.SetNull" />
+  <action id="DatabaseView.SqlGenerator" />
+  <action id="GotoCustomRegion" />
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="control alt button1" />
+  </action>
+  <action id="Inline" />
+  <action id="IntroduceField" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="alt f8" />
+  </action>
+  <action id="SaveAll" />
+  <action id="SaveDocument">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+</keymap>

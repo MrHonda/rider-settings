@@ -1,0 +1,9 @@
+<templateSet group="PHP">
+  <template name="for" value="for ($INDEX$ = 0; $INDEX$ &lt; $LENGTH$; $INDEX$++) {&#10;    $END$&#10;}" description="'for' statement" toReformat="false" toShortenFQNames="true">
+    <variable name="INDEX" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="LENGTH" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+</templateSet>

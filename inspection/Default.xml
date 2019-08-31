@@ -82,6 +82,7 @@
     </option>
     <option name="myCustomValuesEnabled" value="true" />
   </inspection_tool>
+  <inspection_tool class="PhpFullyQualifiedNameUsageInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpUnused" enabled="true" level="WEAK WARNING" enabled_by_default="true" field_visibility="private" method_visibility="private" const_visibility="private">
     <option name="SUPPRESS_GETTERS_AND_SETTERS" value="true" />
   </inspection_tool>

@@ -7,15 +7,15 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="f12b4a74-6eaa-4d52-ab4e-b780e4025fb8" name="PHP 7.2" home="C:\PHP\php-7.2.3-Win32-VC15-x64\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="f12b4a74-6eaa-4d52-ab4e-b780e4025fb8" name="PHP 7.3" home="C:\PHP\7.3.9\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 7.2">
-        <phpinfo binary_type="PHP" php_cgi="C:\PHP\php-7.2.3-Win32-VC15-x64\php-cgi.exe" php_cli="C:\PHP\php-7.2.3-Win32-VC15-x64\php.exe" path_separator=";" version="7.2.3">
+      <interpreter name="PHP 7.3">
+        <phpinfo binary_type="PHP" php_cgi="C:\PHP\7.3.9\php-cgi.exe" php_cli="C:\PHP\7.3.9\php.exe" path_separator=";" version="7.3.9">
           <additional_php_ini />
-          <configuration_file>C:\PHP\php-7.2.3-Win32-VC15-x64\php.ini</configuration_file>
+          <configuration_file>C:\PHP\7.3.9\php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".;C:\php\pear" />
           </configuration_options>
@@ -30,6 +30,7 @@
             <extension name="bcmath" />
             <extension name="calendar" />
             <extension name="ctype" />
+            <extension name="curl" />
             <extension name="date" />
             <extension name="dom" />
             <extension name="filter" />

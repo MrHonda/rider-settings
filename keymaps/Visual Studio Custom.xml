@@ -92,6 +92,9 @@
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
   <action id="GotoCustomRegion" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="f12" />
@@ -148,6 +151,7 @@
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="shift ctrl q" />
   </action>
+  <action id="RecentFiles" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
@@ -169,5 +173,6 @@
   <action id="UML.ZoomOut">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
+  <action id="UsageView.ShowRecentFindUsages" />
   <action id="ViewSource" />
 </keymap>

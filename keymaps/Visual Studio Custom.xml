@@ -36,6 +36,9 @@
     <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
   <action id="EditSource" />
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
   <action id="EditorChooseLookupItemDot" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
@@ -56,6 +59,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt page_up" />
   </action>
   <action id="EditorContextInfo" />
+  <action id="EditorCreateRectangularSelectionOnMouseDrag">
+    <mouse-shortcut keystroke="shift alt button1" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
@@ -150,6 +156,9 @@
   </action>
   <action id="PasteMultiple">
     <keyboard-shortcut first-keystroke="shift ctrl v" />
+  </action>
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="ctrl alt f8" />
   </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="shift ctrl q" />
